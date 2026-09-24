@@ -354,11 +354,11 @@ const interactiveObjects = [];
 
 const wishList = [
   {
-    text: "Thẻo à, nếu nỗi nhớ có hình dáng, chắc lúc này nó đã bay từ nơi anh đứng về Hà Nội, ôm vợ iu thật chặt rồi.",
+    text: "Thẻo à, nếu nỗi nhớ có hình dáng, chắc lúc này nó đã băng qua bao nhiêu cây số, vừa đến nơi thì ôm vợ iu thật chặt, thật lâu, không buông nữa đâu.",
     img: "./assets/anh (1).jpg",
   },
   {
-    text: "Giữa Hà Nội ngàn ánh đèn, ánh đèn nào cũng đẹp, nhưng chỉ có Thẻo là thứ khiến anh muốn bỏ hết mọi thứ để chạy về phía thôi, vợ iu à.",
+    text: "Nơi nào đông đúc ngàn ánh đèn cũng thế, anh vẫn chỉ tìm thấy một ánh sáng — là ánh mắt Thẻo khi cười với anh, vợ iu à.",
     img: "./assets/anh (2).jpg",
   },
   {
@@ -374,7 +374,7 @@ const wishList = [
     img: "./assets/anh (5).jpg",
   },
   {
-    text: "Nếu bây giờ anh ở Hà Nội, anh sẽ nắm tay Thẻo đi khắp các con phố, đi thật chậm — để mưa Hà Nội, gió Hà Nội, và cả người qua đường đều biết: đây là vợ anh.",
+    text: "Nếu bây giờ được ở cạnh Thẻo, anh sẽ nắm tay em đi thật chậm qua từng con phố — để mưa, để gió, và cả người qua đường đều biết: đây là vợ anh, người anh thương nhất trên đời.",
     img: "./assets/anh (6).jpg",
   },
   {
@@ -394,7 +394,7 @@ const wishList = [
     img: "./assets/anh (10).jpg",
   },
   {
-    text: "Dẫu không thể ở cạnh Thẻo ngay lúc này, trái tim anh vẫn luôn tìm đúng một nơi để trở về: bên vợ iu, cô gái của anh ở Hà Nội.",
+    text: "Dẫu không thể ở cạnh Thẻo ngay lúc này, trái tim anh vẫn luôn tìm đúng một nơi để trở về: là vợ iu, là nơi ấm nhất mà anh có trên đời.",
     img: "./assets/anh (14).jpg",
   },
   {
